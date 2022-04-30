@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 01db66267a8e3d043b88a40535b4bdfb
+timeCreated: 1483455742
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - TileGroup: {instanceID: 0}
+  - BorderPrefab: {fileID: 111346, guid: e8a69d6509e828047ba9fc861dc96d0c, type: 2}
+  - FloorPrefab: {fileID: 111346, guid: 01fc508299c943146bd4ab402f244516, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

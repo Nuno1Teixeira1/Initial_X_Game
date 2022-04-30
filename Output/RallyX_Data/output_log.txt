@@ -1,0 +1,232 @@
+Initialize engine version: 5.3.4f1 (fdbb5133b820)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4600 (ID=0x412)
+    Vendor:   Intel
+    VRAM:     1136 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Temp\Unity\Initial X\Output\RallyX_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Temp\Unity\Initial X\Output\RallyX_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Temp\Unity\Initial X\Output\RallyX_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Temp\Unity\Initial X\Output\RallyX_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Temp\Unity\Initial X\Output\RallyX_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Temp\Unity\Initial X\Output\RallyX_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Temp\Unity\Initial X\Output\RallyX_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Temp\Unity\Initial X\Output\RallyX_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\Temp\Unity\Initial X\Output\RallyX_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading E:\Temp\Unity\Initial X\Output\RallyX_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.042 seconds
+Platform assembly: E:\Temp\Unity\Initial X\Output\RallyX_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\Temp\Unity\Initial X\Output\RallyX_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 39.340797 ms
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.261616 ms
+Level 1 Loaded!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 585.
+Total: 0.753605 ms (FindLiveObjects: 0.031413 ms CreateObjectMapping: 0.017417 ms MarkObjects: 0.691400 ms  DeleteObjects: 0.012751 ms)
+
+Loaded Tiles
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+TilesCount :900
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Green Car
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.462517 ms
+Level 2 Loaded!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 585.
+Total: 1.248440 ms (FindLiveObjects: 0.030791 ms CreateObjectMapping: 0.023948 ms MarkObjects: 1.177216 ms  DeleteObjects: 0.015551 ms)
+
+Loaded Tiles
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+TilesCount :900
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Green Car
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Green Car
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Showing GAME OVER Screen
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Showing GAME OVER Screen
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.298298 ms
+
+Unloading 109 unused Assets to reduce memory usage. Loaded Objects now: 213.
+Total: 0.523449 ms (FindLiveObjects: 0.026747 ms CreateObjectMapping: 0.012129 ms MarkObjects: 0.231088 ms  DeleteObjects: 0.252549 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.354564 ms
+Level 0 Loaded!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 585.
+Total: 0.482705 ms (FindLiveObjects: 0.026125 ms CreateObjectMapping: 0.016795 ms MarkObjects: 0.416768 ms  DeleteObjects: 0.022704 ms)
+
+Loaded Tiles
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+TilesCount :900
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.537162 ms
+Level 1 Loaded!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 585.
+Total: 0.759203 ms (FindLiveObjects: 0.036389 ms CreateObjectMapping: 0.018350 ms MarkObjects: 0.695755 ms  DeleteObjects: 0.008086 ms)
+
+Loaded Tiles
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+TilesCount :900
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Green Car
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Green Car
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Green Car
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Showing GAME OVER Screen
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Showing GAME OVER Screen
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.228318 ms
+
+Unloading 109 unused Assets to reduce memory usage. Loaded Objects now: 213.
+Total: 0.486126 ms (FindLiveObjects: 0.016484 ms CreateObjectMapping: 0.012751 ms MarkObjects: 0.230155 ms  DeleteObjects: 0.226112 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.520649 ms
+Level 0 Loaded!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 585.
+Total: 0.558283 ms (FindLiveObjects: 0.026747 ms CreateObjectMapping: 0.016484 ms MarkObjects: 0.493280 ms  DeleteObjects: 0.021460 ms)
+
+Loaded Tiles
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+TilesCount :900
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.852849 ms
+Level 1 Loaded!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 585.
+Total: 0.819230 ms (FindLiveObjects: 0.029547 ms CreateObjectMapping: 0.018661 ms MarkObjects: 0.766045 ms  DeleteObjects: 0.004354 ms)
+
+Loaded Tiles
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+TilesCount :900
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.926872 ms
+Level 2 Loaded!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 585.
+Total: 0.498567 ms (FindLiveObjects: 0.023948 ms CreateObjectMapping: 0.014618 ms MarkObjects: 0.455646 ms  DeleteObjects: 0.003732 ms)
+
+Loaded Tiles
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+TilesCount :900
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Green Car
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Green Car
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Green Car
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Showing GAME OVER Screen
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Showing GAME OVER Screen
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.502328 ms
+
+Unloading 109 unused Assets to reduce memory usage. Loaded Objects now: 213.
+Total: 0.609602 ms (FindLiveObjects: 0.014929 ms CreateObjectMapping: 0.014929 ms MarkObjects: 0.300446 ms  DeleteObjects: 0.278986 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 470 -> priority: 1 
