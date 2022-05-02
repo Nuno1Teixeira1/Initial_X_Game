@@ -10,7 +10,8 @@ The player:
   - Updates the score, for each flag he gets.
 
 ## Enemy AI
-
-
+ - Red Car: it's constantly updating a new route to reach the player for each new position he's in.
+ - Pink Car: wanders around the map in search for a purpose.
 
 ## Level
+The maze is generated statically with a JSON file. For each "1" in the file it would generate a block and "0" an empty space.
