@@ -18,3 +18,6 @@ Initial X is a 2D top down view platform game made in Unity, inspired from Rally
 ## Level
 Is generated statically with a JSON file. For each "1" in the file it would generate a block and "0" an empty space.
 (Currently trying to develop a way to automatically generate a level).
+
+## Assets
+Some part of the assets were made in Photoshop and the rest are from Unity Store (with some slight changes to adapt to the levels).
